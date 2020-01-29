@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/josop/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/build/bootloader",
+    "config_file":        "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "GIT-NOTFOUND",
+    "phy_data_partition": "",
+    "monitor_baud" : "115200",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/josop/esp/esp-idf/components/efuse/Kconfig;/home/josop/esp/esp-idf/components/esp32/Kconfig;/home/josop/esp/esp-idf/components/esp_common/Kconfig;/home/josop/esp/esp-idf/components/log/Kconfig;/home/josop/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/josop/esp/esp-idf/components/bootloader/Kconfig.projbuild;/home/josop/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/home/josop/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/josop/esp/esp-idf/components/bootloader", "/home/josop/esp/esp-idf/components/bootloader_support", "/home/josop/esp/esp-idf/components/efuse", "/home/josop/esp/esp-idf/components/esp32", "/home/josop/esp/esp-idf/components/esp_common", "/home/josop/esp/esp-idf/components/esp_rom", "/home/josop/esp/esp-idf/components/esptool_py", "/home/josop/esp/esp-idf/components/log", "/home/josop/esp/esp-idf/components/bootloader/subproject/main", "/home/josop/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/home/josop/esp/esp-idf/components/partition_table", "/home/josop/esp/esp-idf/components/soc", "/home/josop/esp/esp-idf/components/spi_flash", "/home/josop/esp/esp-idf/components/xtensa", "" ]
+}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/media/josop/Data/programming/MCU/esp32/new_esp_idf/kruzok/ChristmasTree/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
